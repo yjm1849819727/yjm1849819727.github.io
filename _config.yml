@@ -1,4 +1,4 @@
-title: Hanlin Cai
+title: Jingming Yu
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -7,11 +7,11 @@ url: https://yjm1849819727.github.io
 # Owner/author information
 owner:
   name: Jingming Yu
-  avatar:jingming.jpg
+  avatar: take.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: 1849819727@qq.cpm
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-  # # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  email: 1849819727@qq.com
+  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # github: GuangLun2000
   # linkedin: hanlincai
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -50,24 +50,24 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# timezone: China/Beijing
-# future: true
-# highlighter: rouge
+timezone: China/Beijing
+future: true
+highlighter: rouge
 # markdown: kramdown
 # markdown: redcarpet
 # pygments: true
 
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-# permalink:   /:categories/:title
+permalink:   /:categories/:title
 
 
-# kramdown:
-#   auto_ids: true
-#   footnote_nr: 1
-#   entity_output: as_char
-#   toc_levels: 1..6
-#   enable_coderay: false
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
   # coderay:
   #   coderay_line_numbers:
@@ -78,10 +78,10 @@ links:
 
 
 # disqus settings:
-# disqus:
-#   shortname: lancecai
+disqus:
+  shortname: yjm
 
-# include: [".htaccess"]
-# exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+Latest update by Jingming Yu.
