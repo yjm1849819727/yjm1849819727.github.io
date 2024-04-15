@@ -8,6 +8,7 @@ title: Hobbies
 
 ## Photography
 
+<div>
 <img src="/images/flower2.JPG">
 <img src="/images/sun.JPG">
 <img src="/images/flower1.JPG">
