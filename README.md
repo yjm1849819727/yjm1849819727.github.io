@@ -1,6 +1,6 @@
 #  ✨
 
-Here is **Jingming Yu (于静明)**. This is my personal web repo. If you like it, please star it! 🥰
+Here is **Jingming Yu (于静明)**. This is my personal web. 🥰
 
  <!-- ## Update and News
 
