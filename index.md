@@ -24,7 +24,7 @@ My email:1849819727@qq.com
 
 - Generative AI
 
-I am interested in artificial intelligence,but currently,I am a freshman on the journey of learning about knowledge related to my major,looking forward to finding the most suitable direction for me in the future.
+I am interested in artificial intelligence and Information Science and Engineering,but currently,I am a freshman on the journey of learning about knowledge related to my major,looking forward to finding the most suitable direction for me in the future.
 
 ---
 

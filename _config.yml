@@ -16,9 +16,9 @@ owner:
   # github: GuangLun2000
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # bilibili: 594030035
+   bilibili: 382428180
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # zhihu: https://www.zhihu.com/people/chlire
+   zhihu: https://www.zhihu.com/people/xiao-sa-97-38
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -78,10 +78,10 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: yjm
+# disqus:
+#   shortname: yjm
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+# include: [".htaccess"]
+# exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update by Jingming Yu.
