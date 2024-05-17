@@ -8,10 +8,9 @@ title: Hobbies
 
 ## Photography
 
-<div class=three>
+<div class=two>
 <img src="/images/flower2.JPG">
 <img src="/images/sun.JPG">
-<img src="/images/flower1.JPG">
 </div>
 <br>Photography is not just a technique or an art form, but also a lifestyle. It allows me to pay more attention to the details in life, to cherish every moment even more, and it also provides a way to express myself and share stories. Through photography, I can love life more passionately and explore and experience this colorful world more actively.
 

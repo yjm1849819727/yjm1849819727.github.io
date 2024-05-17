@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jingming Yu (于静明)**.
 
-I am a student studying in the school of Information Science and Engineering,[Shandong University](https://www.sdu.edu.cn/index.htm) in China.
+I am a student studying in the school of Information Science and Engineering(Chongxin College),[Shandong University](https://www.sdu.edu.cn/index.htm) in China.
 
 If you are interested in any aspect of me, I would love to chat with you by email.
 
@@ -16,7 +16,7 @@ My email:1849819727@qq.com
 
 ## Academic Background
 
-- **Sep 2023 - Future：**Shandong University(SDU)
+- **Sep 2023 - June 2027**Shandong University(SDU)
 
 ---
 
