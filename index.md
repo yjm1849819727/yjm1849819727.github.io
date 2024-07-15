@@ -26,9 +26,9 @@ My email:1849819727@qq.com
 
 ## Research Interests
 
-- Generative AI
+- 
 
-I am interested in artificial intelligence and Information Science and Engineering,but currently,I am a freshman on the journey of learning about knowledge related to my major,looking forward to finding the most suitable direction for me in the future.
+I am interested in AI and Information Science and Engineering,but currently,I am a freshman on the journey of learning about knowledge related to my major,looking forward to finding the most suitable direction for me in the future.
 
 ---
 
