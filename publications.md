@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hobbies/index.html
+permalink: /publications/index.html
 title: Publications
 ---
 
