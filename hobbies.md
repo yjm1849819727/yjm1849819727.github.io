@@ -13,7 +13,7 @@ title: Hobbies
 <img src="https://yjm1849819727.github.io/images/flower2.jpg" width = '50%' height = '250.5'><img src="https://yjm1849819727.github.io/images//sun.jpg" width = '50%'>
 </div>
 <div class="four">
-    <img src="./images/green.jpg" style="width: 50%; height: auto; object-fit: cover;"><img src="./images/firework.jpg" style="width: 50%; height: 276; object-fit: cover;">
+    <img src="https://yjm1849819727.github.io/images/green.jpg" style="width: 50%; height: auto; object-fit: cover;"><img src="https://yjm1849819727.github.io/images/firework.jpg" style="width: 50%; height: 276; object-fit: cover;">
 </div>
 <br>Photography is not just a technique or an art form, but also a lifestyle. It allows me to pay more attention to the details in life, to cherish every moment even more, and it also provides a way to express myself and share stories. Through photography, I can love life more passionately and explore and experience this colorful world more actively.
 
@@ -33,11 +33,9 @@ title: Hobbies
 
 In my freshman year, I also had a keen interest in gaming and even became involved with the motion capture laboratory at our university to contribute to game development. Regrettably, the application of motion capture technology was not focused on gaming but rather directed towards other fields, which ultimately led me to make the decision to discontinue my involvement.
 <div class="four">
-    <img src="./images/game.png" style="width: 50%; height: auto; object-fit: cover;"><img src="./images/motion.jpg" style="width: auto; height: 250; object-fit: cover;">
+    <img src="https://yjm1849819727.github.io/images/game.png" style="width: 50%; height: auto; object-fit: cover;"><img src="https://yjm1849819727.github.io/images/motion.jpg" style="width: auto; height: 250; object-fit: cover;">
 </div>
 <!-- ## My Cat
-
-She is my love. Her name is Qbao (Q宝). -->
 
 <!-- <div>
 <img src="/images/cat.JPG">

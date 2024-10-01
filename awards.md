@@ -6,7 +6,7 @@ title: Awards
 
 <!-- > Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/) -->
 
- ## Scholarships
+## Scholarships
 
 - Oct 2024：**2023-2024年山东大学(青岛)优秀学生**  
 
