@@ -9,8 +9,8 @@ title: Hobbies
 ## Photography
 
 <div class=two>
-<img src="/images/flower2.JPG">
-<img src="/images/sun.JPG">
+<img src="https://yjm1849819727.github.io/images/flower2.jpg">
+<img src="https://yjm1849819727.github.io/images//sun.jpg">
 </div>
 <br>Photography is not just a technique or an art form, but also a lifestyle. It allows me to pay more attention to the details in life, to cherish every moment even more, and it also provides a way to express myself and share stories. Through photography, I can love life more passionately and explore and experience this colorful world more actively.
 
@@ -28,7 +28,7 @@ title: Hobbies
 
 ## Past Hobbies
 
-I previously enjoyed vlog making, and computer game developing/playing. However, I have no time to do any of these things recently.
+I previously enjoyed playing games and making vlogs.In my freshman year, I joined the motion capture laboratory and wanted to work on game development, but due to heavy coursework, I had to quit.
 
 <!-- ## My Cat
 

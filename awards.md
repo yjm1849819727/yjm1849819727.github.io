@@ -21,6 +21,7 @@ title: Awards
 - March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br> -->
 
 ## Competitions
+- 2023-2024年山东大学(青岛)优秀学生三等奖
 - 第十一届山东高校机器人创新大赛双轮平衡机器人电磁循迹赛道三等奖
 - 2024年山东大学（青岛）“思美杯”校园美育作品大赛摄影组二等奖
 - 2024年山大大学（青岛）“光影春韵·山海芳华”比赛摄影短视频组优秀奖
