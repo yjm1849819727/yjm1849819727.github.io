@@ -50,6 +50,14 @@ title: Hobbies
 [best universities in my hometown]:https://www.fzu.edu.cn/ -->
 
 
+## Painting
+
+I can draw the world in my imagination with the pen in my hand, just as scientific research can gradually create its own world, and photography can record the world.
+<div class="image-container" style="display: flex; align-items: center;">
+    <img src="https://yjm1849819727.github.io/images/painting1.png" style="height: 300px; object-fit: cover; margin-right: 10px;">
+    <img src="https://yjm1849819727.github.io/images/painting2.png" style="height: 300px; object-fit: cover;">
+</div>
+
 ## Past Hobbies
 
 In my freshman year, I also had a keen interest in gaming and even became involved with the motion capture laboratory at our university to contribute to game development. Regrettably, the application of motion capture technology was not focused on gaming but rather directed towards other fields, which ultimately led me to make the decision to discontinue my involvement.
