@@ -32,7 +32,7 @@ title: Hobbies
 
   .gallery img {
     width: 100%;
-    height: auto;
+    height: 300px;
     object-fit: cover;
   }
 </style>
